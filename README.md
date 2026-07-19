@@ -122,10 +122,10 @@ I specialize in **offline-first app design**, **Retrieval-Augmented Generation (
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=okaadyx&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=okaadyx&show_icons=true&bg_color=00000000&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaadyx&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=okaadyx&layout=compact&bg_color=00000000&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
       </td>
     </tr>
     <tr>
